@@ -706,6 +706,7 @@ html, body {
 
     .sub_table {
         flex-wrap: wrap;
+        justify-self: center;
     }
 }
 
